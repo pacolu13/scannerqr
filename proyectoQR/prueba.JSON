@@ -1,0 +1,57 @@
+[
+    {
+        "ID":1,
+        "Nombre": "Coca-Cola",
+        "Tipo": "Bebida",
+        "Cantidad":1500
+    },
+    {
+        "ID":2,
+        "Nombre": "Notebook Lenovo",
+        "Tipo": "Electrodomestico",
+        "Cantidad": 120
+    },
+    {
+        "ID":3,
+        "Nombre": "Polera Negra",
+        "Tipo": "Ropa",
+        "Cantidad": 60
+    },
+    {
+        "ID":4,
+        "Nombre": "Patys",
+        "Tipo": "Comida",
+        "Cantidad": 5000
+    },
+    {
+        "ID":5,
+        "Nombre": "Televisores LG",
+        "Tipo": "Electrodomestico",
+        "Cantidad": 0
+    },
+    {
+        "ID":6,
+        "Nombre": "Pantalon jean",
+        "Tipo": "Ropa",
+        "Cantidad": 0
+    },
+    {
+        "ID":7,
+        "Nombre": "Lays",
+        "Tipo": "Comida",
+        "Cantidad": 20
+    },
+    {
+        "ID":8,
+        "Nombre": "Patys",
+        "Tipo": "Comida",
+        "Cantidad": 100
+    },
+    {
+        "ID":9,
+        "Nombre": "Union Ganadera",
+        "Tipo": "Comida",
+        "Cantidad": 372
+    }
+]
+
